@@ -6,7 +6,7 @@
 
 ⚛️ **Quantum Computing Student at EPITA** | 🌐︎ **Based in Paris, open to relocation ✈️**
 
-Fascinated by QC and its applications, likely in finance and HPC. I'm currently working on quantum virtual machines and multi-tenancy with [Scaleway](https://github.com/vmscw/pfee-epita-qvm).
+Fascinated by quantum computing and its applications. I'm currently working on quantum virtual machines and multi-tenancy with [Scaleway](https://github.com/vmscw/pfee-epita-qvm).
 
 ### Let's stay in touch !
 
